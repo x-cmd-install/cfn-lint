@@ -1,0 +1,58 @@
+about:
+  description: CloudFormation Linter
+  license: MIT-0
+  homepage: 
+  head: 470191b
+  archived: false
+  latestVersion: v1.56.0
+  collectedAt: 2026-09-01T04:56:11Z
+timeline:
+  created: 2018-04-10
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 2640
+  watcher: 42
+  fork: 642
+  release: 473
+  contributor: 195
+  pullRequest: 194
+  issue: 1516
+language:
+  Python: 3101982
+  Shell: 7695
+  Dockerfile: 160
+totalLine: 3109837
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 4
+    mergedPR: 33
+    openPR: 5
+    closedIssue: 16
+    openIssue: 8
+    commit: 31
+  last90d:
+    since: 2026-06-03
+    release: 12
+    mergedPR: 77
+    openPR: 5
+    closedIssue: 28
+    openIssue: 11
+    commit: 76
+  last180d:
+    since: 2026-03-05
+    release: 26
+    mergedPR: 194
+    openPR: 8
+    closedIssue: 59
+    openIssue: 13
+    commit: 191
+  last360d:
+    since: 2025-09-06
+    release: 42
+    mergedPR: 278
+    openPR: 8
+    closedIssue: 97
+    openIssue: 14
+    commit: 275
