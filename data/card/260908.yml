@@ -5,7 +5,7 @@ about:
   head: f4c72e0
   archived: false
   latestVersion: "v1.56.0"
-  collectedAt: 2026-09-08T02:47:16Z
+  collectedAt: 2026-09-08T05:36:02Z
 timeline:
   created: 2018-04-10
   lastCommit: 2026-09-03
@@ -81,7 +81,7 @@ total:
   commit: 3436
 ---
 path: /home/runner/.x-repo/github.com/aws-cloudformation/cfn-lint
-collectedAt: 2026-09-08T02:49:09Z
+collectedAt: 2026-09-08T05:37:51Z
 loc:
   Json:
     code: 676891
