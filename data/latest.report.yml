@@ -2,103 +2,103 @@ about:
   description: "CloudFormation Linter"
   license: MIT-0
   homepage: 
-  head: 00c36e3
+  head: a4ed5bb
   archived: false
-  latestVersion: "v1.56.1"
-  latestRelease: "v1.56.1"
+  latestVersion: "v1.56.2"
+  latestRelease: "v1.56.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:47:44Z
+  collectedAt: 2026-09-09T19:50:03Z
 timeline:
   created: 2018-04-10
-  lastCommit: 2026-09-08
-  lastVersion: 2026-09-08
-  lastRelease: 2026-09-08
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
   star: 2638
   watcher: 41
   fork: 642
-  release: 474
+  release: 475
   contributor: 188
-  pullRequest: 3128
+  pullRequest: 3133
   issue: 1524
 language:
-  Python: 3118990
+  Python: 3128692
   Shell: 7695
   Dockerfile: 160
-totalBytes: 3126845
+totalBytes: 3136547
 recent:
   last30d:
     since: 2026-08-10
-    release: 4
-    mergedPR: 31
+    release: 5
+    mergedPR: 36
     openPR: 4
-    closedIssue: 11
-    openIssue: 11
-    commit: 21
+    closedIssue: 13
+    openIssue: 9
+    commit: 0
   last60d:
     since: 2026-07-11
-    release: 8
-    mergedPR: 56
+    release: 9
+    mergedPR: 61
     openPR: 6
-    closedIssue: 23
-    openIssue: 14
-    commit: 55
+    closedIssue: 25
+    openIssue: 12
+    commit: 0
   last90d:
     since: 2026-06-11
-    release: 12
-    mergedPR: 79
+    release: 13
+    mergedPR: 84
     openPR: 6
-    closedIssue: 31
-    openIssue: 16
-    commit: 78
+    closedIssue: 33
+    openIssue: 14
+    commit: 0
   last180d:
     since: 2026-03-13
-    release: 27
-    mergedPR: 196
+    release: 28
+    mergedPR: 201
     openPR: 9
-    closedIssue: 60
-    openIssue: 18
-    commit: 196
+    closedIssue: 62
+    openIssue: 16
+    commit: 0
   last360d:
     since: 2025-09-14
-    release: 43
-    mergedPR: 283
+    release: 44
+    mergedPR: 288
     openPR: 9
-    closedIssue: 100
-    openIssue: 19
-    commit: 281
+    closedIssue: 102
+    openIssue: 17
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 624
+    mergedPR: 629
     openPR: 10
-    closedIssue: 272
-    openIssue: 35
-    commit: 624
+    closedIssue: 274
+    openIssue: 33
+    commit: 629
 total:
-  release: 474
-  mergedPR: 2930
+  release: 475
+  mergedPR: 2935
   openPR: 11
-  closedIssue: 1450
-  openIssue: 74
-  commit: 3439
+  closedIssue: 1452
+  openIssue: 72
+  commit: 3444
 ---
 path: /home/runner/.x-repo/github.com/aws-cloudformation/cfn-lint
-collectedAt: 2026-09-09T05:49:29Z
+collectedAt: 2026-09-09T19:51:53Z
 loc:
   Json:
-    code: 678319
+    code: 678336
     comments: 0
     blanks: 36
-    files: 352
+    files: 353
   Python:
-    code: 82336
-    comments: 1580
-    blanks: 10781
-    files: 1052
+    code: 82592
+    comments: 1587
+    blanks: 10798
+    files: 1054
   Yaml:
-    code: 17743
+    code: 17758
     comments: 422
     blanks: 457
     files: 239
@@ -129,8 +129,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 4529
-    blanks: 1105
+    comments: 4538
+    blanks: 1107
     files: 15
   Text:
     code: 0
@@ -138,11 +138,11 @@ loc:
     blanks: 1
     files: 23
 total:
-  code: 779211
-  comments: 6642
-  blanks: 12468
-  files: 1687
+  code: 779499
+  comments: 6658
+  blanks: 12487
+  files: 1690
 ---
 
 ---
-{"id":384889685,"author":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOB7B4V84W8PNV","tag_name":"v1.56.1","target_commitish":"main","name":"Release v1.56.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T16:15:54Z","updated_at":"2026-09-08T16:19:47Z","published_at":"2026-09-08T16:19:47Z","assets":[{"id":550852534,"node_id":"RA_kwDOB7B4V84g1Ve2","name":"schemas-cfnlint.zip","label":"","uploader":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3126612,"digest":"sha256:d9bc224210dea0bacb3d1f4f29279833b4e21b740409ea22eb6ef9137ec341d5","download_count":0,"created_at":"2026-09-08T16:19:46Z","updated_at":"2026-09-08T16:19:47Z"},{"id":550852537,"node_id":"RA_kwDOB7B4V84g1Ve5","name":"schemas-draft7.zip","label":"","uploader":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3122259,"digest":"sha256:afadf78ed53098b0d26a772fb2f650a6d2da017e569654b1d962106c8fb1f242","download_count":0,"created_at":"2026-09-08T16:19:46Z","updated_at":"2026-09-08T16:19:47Z"}],"body":"## What's Changed\n* fix(ecs): Support 32 vCPU Fargate task definitions by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4668\n* Guard against YAML alias amplification (billion laughs) by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4670\n* fix: Type-check resource Refs in `UpdatePolicy`/`CreationPolicy` by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4676\n* Update CloudFormation schemas to `2026-09-08` by @github-actions[bot] in https://github.com/aws-cloudformation/cfn-lint/pull/4667\n\n**Full Changelog**: https://github.com/aws-cloudformation/cfn-lint/compare/v1.56.0...v1.56.1\n","mentions_count":1}
+{"id":385768406,"author":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOB7B4V84W_lvW","tag_name":"v1.56.2","target_commitish":"main","name":"Release v1.56.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T18:50:34Z","updated_at":"2026-09-09T18:54:32Z","published_at":"2026-09-09T18:54:32Z","assets":[{"id":553372345,"node_id":"RA_kwDOB7B4V84g-8q5","name":"schemas-cfnlint.zip","label":"","uploader":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3133172,"digest":"sha256:cf063e6eabe848a84e867db28eceb190cf9873acae8d32c72ad599c83044c24a","download_count":0,"created_at":"2026-09-09T18:54:31Z","updated_at":"2026-09-09T18:54:31Z"},{"id":553372344,"node_id":"RA_kwDOB7B4V84g-8q4","name":"schemas-draft7.zip","label":"","uploader":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3128819,"digest":"sha256:c87ff92f577b1b8075741da8340ac38e4c6068e0b2ddb494eece1f1d76c9ddc9","download_count":0,"created_at":"2026-09-09T18:54:30Z","updated_at":"2026-09-09T18:54:31Z"}],"body":"## What's Changed\n* fix: Allow intrinsics in SAM Globals properties by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4683\n* add [E3717](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3717): Lambda Timeout limit based on CapacityProviderConfig by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4685\n* fix [E2529](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E2529): Raise CloudWatch Logs subscription filter limit to 5 by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4688\n* Avoid `maxProperties` warnings for single-property schemas by @0xTaoZ in https://github.com/aws-cloudformation/cfn-lint/pull/4686\n* Allow `Fn::GetAZs` in `Fn::Join` values by @0xTaoZ in https://github.com/aws-cloudformation/cfn-lint/pull/4677\n\n**Full Changelog**: https://github.com/aws-cloudformation/cfn-lint/compare/v1.56.1...v1.56.2\n","mentions_count":2}

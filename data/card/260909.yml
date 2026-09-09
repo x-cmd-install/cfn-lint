@@ -2,103 +2,103 @@ about:
   description: "CloudFormation Linter"
   license: MIT-0
   homepage: 
-  head: 00c36e3
+  head: a4ed5bb
   archived: false
-  latestVersion: "v1.56.1"
-  latestRelease: "v1.56.1"
+  latestVersion: "v1.56.2"
+  latestRelease: "v1.56.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:47:44Z
+  collectedAt: 2026-09-09T19:50:03Z
 timeline:
   created: 2018-04-10
-  lastCommit: 2026-09-08
-  lastVersion: 2026-09-08
-  lastRelease: 2026-09-08
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
   star: 2638
   watcher: 41
   fork: 642
-  release: 474
+  release: 475
   contributor: 188
-  pullRequest: 3128
+  pullRequest: 3133
   issue: 1524
 language:
-  Python: 3118990
+  Python: 3128692
   Shell: 7695
   Dockerfile: 160
-totalBytes: 3126845
+totalBytes: 3136547
 recent:
   last30d:
     since: 2026-08-10
-    release: 4
-    mergedPR: 31
+    release: 5
+    mergedPR: 36
     openPR: 4
-    closedIssue: 11
-    openIssue: 11
-    commit: 21
+    closedIssue: 13
+    openIssue: 9
+    commit: 0
   last60d:
     since: 2026-07-11
-    release: 8
-    mergedPR: 56
+    release: 9
+    mergedPR: 61
     openPR: 6
-    closedIssue: 23
-    openIssue: 14
-    commit: 55
+    closedIssue: 25
+    openIssue: 12
+    commit: 0
   last90d:
     since: 2026-06-11
-    release: 12
-    mergedPR: 79
+    release: 13
+    mergedPR: 84
     openPR: 6
-    closedIssue: 31
-    openIssue: 16
-    commit: 78
+    closedIssue: 33
+    openIssue: 14
+    commit: 0
   last180d:
     since: 2026-03-13
-    release: 27
-    mergedPR: 196
+    release: 28
+    mergedPR: 201
     openPR: 9
-    closedIssue: 60
-    openIssue: 18
-    commit: 196
+    closedIssue: 62
+    openIssue: 16
+    commit: 0
   last360d:
     since: 2025-09-14
-    release: 43
-    mergedPR: 283
+    release: 44
+    mergedPR: 288
     openPR: 9
-    closedIssue: 100
-    openIssue: 19
-    commit: 281
+    closedIssue: 102
+    openIssue: 17
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 624
+    mergedPR: 629
     openPR: 10
-    closedIssue: 272
-    openIssue: 35
-    commit: 624
+    closedIssue: 274
+    openIssue: 33
+    commit: 629
 total:
-  release: 474
-  mergedPR: 2930
+  release: 475
+  mergedPR: 2935
   openPR: 11
-  closedIssue: 1450
-  openIssue: 74
-  commit: 3439
+  closedIssue: 1452
+  openIssue: 72
+  commit: 3444
 ---
 path: /home/runner/.x-repo/github.com/aws-cloudformation/cfn-lint
-collectedAt: 2026-09-09T05:49:29Z
+collectedAt: 2026-09-09T19:51:53Z
 loc:
   Json:
-    code: 678319
+    code: 678336
     comments: 0
     blanks: 36
-    files: 352
+    files: 353
   Python:
-    code: 82336
-    comments: 1580
-    blanks: 10781
-    files: 1052
+    code: 82592
+    comments: 1587
+    blanks: 10798
+    files: 1054
   Yaml:
-    code: 17743
+    code: 17758
     comments: 422
     blanks: 457
     files: 239
@@ -129,8 +129,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 4529
-    blanks: 1105
+    comments: 4538
+    blanks: 1107
     files: 15
   Text:
     code: 0
@@ -138,10 +138,10 @@ loc:
     blanks: 1
     files: 23
 total:
-  code: 779211
-  comments: 6642
-  blanks: 12468
-  files: 1687
+  code: 779499
+  comments: 6658
+  blanks: 12487
+  files: 1690
 ---
 
 ---
