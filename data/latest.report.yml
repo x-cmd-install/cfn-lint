@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.56.3"
   latestRelease: "v1.56.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:51:54Z
+  collectedAt: 2026-09-11T19:03:58Z
 timeline:
   created: 2018-04-10
   lastCommit: 2026-09-10
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 2639
   watcher: 41
-  fork: 642
+  fork: 643
   release: 476
   contributor: 188
-  pullRequest: 3142
+  pullRequest: 3144
   issue: 1528
 language:
   Python: 3148831
@@ -32,60 +32,60 @@ recent:
     since: 2026-08-12
     release: 5
     mergedPR: 37
-    openPR: 4
+    openPR: 6
     closedIssue: 17
     openIssue: 6
-    commit: 0
+    commit: 35
   last60d:
     since: 2026-07-13
     release: 10
     mergedPR: 70
-    openPR: 6
+    openPR: 8
     closedIssue: 32
     openIssue: 9
-    commit: 0
+    commit: 69
   last90d:
     since: 2026-06-13
     release: 14
     mergedPR: 91
-    openPR: 6
+    openPR: 8
     closedIssue: 39
     openIssue: 11
-    commit: 0
+    commit: 92
   last180d:
     since: 2026-03-15
     release: 29
     mergedPR: 210
-    openPR: 9
+    openPR: 11
     closedIssue: 69
     openIssue: 13
-    commit: 0
+    commit: 210
   last360d:
     since: 2025-09-16
     release: 45
     mergedPR: 296
-    openPR: 9
+    openPR: 11
     closedIssue: 109
     openIssue: 14
-    commit: 0
+    commit: 295
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 637
-    openPR: 10
+    openPR: 12
     closedIssue: 281
     openIssue: 30
     commit: 635
 total:
   release: 476
   mergedPR: 2944
-  openPR: 11
+  openPR: 13
   closedIssue: 1459
   openIssue: 69
   commit: 3453
 ---
 path: /home/runner/.x-repo/github.com/aws-cloudformation/cfn-lint
-collectedAt: 2026-09-11T05:53:41Z
+collectedAt: 2026-09-11T19:05:43Z
 loc:
   Json:
     code: 678522
