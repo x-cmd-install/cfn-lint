@@ -14,12 +14,12 @@ x install cfn-lint
 
 ## Code insight
 
-Total: **779,607** lines of code across **1649** files in the top 5 languages.
+Total: **779,638** lines of code across **1649** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 678,522 | 0 | 36 | 353 |
-| Python | 82,937 | 1,658 | 10,829 | 1054 |
+| Python | 82,968 | 1,665 | 10,829 | 1054 |
 | Yaml | 17,761 | 422 | 457 | 239 |
 | Toml | 173 | 4 | 31 | 1 |
 | Svg | 107 | 1 | 0 | 2 |
@@ -41,18 +41,18 @@ Total: **779,607** lines of code across **1649** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 476 · **Merged PRs**: 2942 · **Open PRs**: 13 · **Closed issues**: 1457 · **Open issues**: 71 · **Commits**: 3451
+- **Releases**: 476 · **Merged PRs**: 2944 · **Open PRs**: 11 · **Closed issues**: 1459 · **Open issues**: 69 · **Commits**: 3453
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 39 | 6 | 17 | 8 | 33 |
-| last60d | 2026-07-12 | 10 | 68 | 8 | 30 | 11 | 67 |
-| 90d | 2026-06-12 | 14 | 89 | 8 | 38 | 13 | 90 |
-| last180d | 2026-03-14 | 29 | 208 | 11 | 67 | 15 | 208 |
-| 360d | 2025-09-15 | 45 | 294 | 11 | 107 | 16 | 293 |
-| last720d | 2024-09-20 | 100 | 636 | 12 | 279 | 32 | 633 |
+| 30d | 2026-08-12 | 5 | 37 | 4 | 17 | 6 | 0 |
+| last60d | 2026-07-13 | 10 | 70 | 6 | 32 | 9 | 0 |
+| 90d | 2026-06-13 | 14 | 91 | 6 | 39 | 11 | 0 |
+| last180d | 2026-03-15 | 29 | 210 | 9 | 69 | 13 | 0 |
+| 360d | 2025-09-16 | 45 | 296 | 9 | 109 | 14 | 0 |
+| last720d | 2024-09-21 | 100 | 637 | 10 | 281 | 30 | 635 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for cfn-lint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:15:54Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:53:47Z._
