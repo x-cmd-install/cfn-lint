@@ -91,24 +91,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: cfn-lint
-  binnames:
-    - cfn-lint
-    - cfn-lint+full
-    - cfn-lint+graph
-    - cfn-lint+junit
-    - cfn-lint+sarif
-  visiblename: cfn-lint
-  version: 1.31.3
-  origversion: 1.31.3-1.fc42
-  status: legacy
-  summary: CloudFormation Linter
-  licenses:
-    - MIT-0 AND MIT AND Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: cfn-lint
   binnames:
@@ -126,10 +108,28 @@
     - MIT-0 AND MIT AND Apache-2.0
   categories:
     - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: cfn-lint
+  binnames:
+    - cfn-lint
+    - cfn-lint+full
+    - cfn-lint+graph
+    - cfn-lint+junit
+    - cfn-lint+sarif
+  visiblename: cfn-lint
+  version: 1.31.3
+  origversion: 1.31.3-1.fc42
+  status: legacy
+  summary: CloudFormation Linter
+  licenses:
+    - MIT-0 AND MIT AND Apache-2.0
+  categories:
+    - Unspecified
 - repo: homebrew
   srcname: cfn-lint
   visiblename: cfn-lint
-  version: 1.56.2
+  version: 1.56.3
   origversion: null
   status: newest
   summary: Validate CloudFormation templates against the CloudFormation spec
