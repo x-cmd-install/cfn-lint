@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/386522687",
-  "assets_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/386522687/assets",
-  "upload_url": "https://uploads.github.com/repos/aws-cloudformation/cfn-lint/releases/386522687/assets{?name,label}",
-  "html_url": "https://github.com/aws-cloudformation/cfn-lint/releases/tag/v1.56.3",
-  "id": 386522687,
+  "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/390964134",
+  "assets_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/390964134/assets",
+  "upload_url": "https://uploads.github.com/repos/aws-cloudformation/cfn-lint/releases/390964134/assets{?name,label}",
+  "html_url": "https://github.com/aws-cloudformation/cfn-lint/releases/tag/v1.57.0",
+  "id": 390964134,
   "author": {
     "login": "kddejong",
     "id": 36457093,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOB7B4V84XCd4_",
-  "tag_name": "v1.56.3",
+  "node_id": "RE_kwDOB7B4V84XTaOm",
+  "tag_name": "v1.57.0",
   "target_commitish": "main",
-  "name": "Release v1.56.3",
+  "name": "Release v1.57.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-10T18:12:57Z",
-  "updated_at": "2026-09-10T18:21:01Z",
-  "published_at": "2026-09-10T18:21:01Z",
+  "created_at": "2026-09-17T18:09:56Z",
+  "updated_at": "2026-09-17T18:40:49Z",
+  "published_at": "2026-09-17T18:40:49Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/555558243",
-      "id": 555558243,
-      "node_id": "RA_kwDOB7B4V84hHSVj",
+      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/570857255",
+      "id": 570857255,
+      "node_id": "RA_kwDOB7B4V84iBpcn",
       "name": "schemas-cfnlint.zip",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 3138111,
-      "digest": "sha256:89028628a09772b1f08417cc658c4e16eed54fb5232538510bae988bc238143d",
-      "download_count": 0,
-      "created_at": "2026-09-10T18:21:00Z",
-      "updated_at": "2026-09-10T18:21:01Z",
-      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.56.3/schemas-cfnlint.zip"
+      "size": 3192915,
+      "digest": "sha256:aacc89dc45b7975bfdc469b3755ea7f232fea661a4352afc187f835f2dfc6cac",
+      "download_count": 1,
+      "created_at": "2026-09-17T18:40:00Z",
+      "updated_at": "2026-09-17T18:40:49Z",
+      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.0/schemas-cfnlint.zip"
     },
     {
-      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/555558241",
-      "id": 555558241,
-      "node_id": "RA_kwDOB7B4V84hHSVh",
+      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/570857254",
+      "id": 570857254,
+      "node_id": "RA_kwDOB7B4V84iBpcm",
       "name": "schemas-draft7.zip",
       "label": "",
       "uploader": {
@@ -101,16 +101,16 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 3133758,
-      "digest": "sha256:8329e79ad0d9a972df939fc1a432f6db0d84c30ada14b71a97888f8f38c82438",
-      "download_count": 0,
-      "created_at": "2026-09-10T18:21:00Z",
-      "updated_at": "2026-09-10T18:21:01Z",
-      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.56.3/schemas-draft7.zip"
+      "size": 3188555,
+      "digest": "sha256:c654689c0d4367002716629ebb5e57714414912fbfbd4a2e9b4667c772fe15bc",
+      "download_count": 1,
+      "created_at": "2026-09-17T18:40:00Z",
+      "updated_at": "2026-09-17T18:40:49Z",
+      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.0/schemas-draft7.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/tarball/v1.56.3",
-  "zipball_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/zipball/v1.56.3",
-  "body": "## What's Changed\n* fix [W1028](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#W1028): scope to enclosing `Fn::If` pins by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4690\n* fix [E1017](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E1017): report out-of-bounds `Fn::Select` on a literal list by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4695\n* fix [E1010](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E1010): report clean error for Fn::GetAtt string form without an attribute by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4696\n* Update CloudFormation schemas to `2026-09-10` by @github-actions[bot] in https://github.com/aws-cloudformation/cfn-lint/pull/4691\n* fix [W1101](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#W1101): resolved `Fn::FindInMap` should not share identity (W1101 false positive) by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4698\n\n**Full Changelog**: https://github.com/aws-cloudformation/cfn-lint/compare/v1.56.2...v1.56.3\n",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/tarball/v1.57.0",
+  "zipball_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/zipball/v1.57.0",
+  "body": "## What's Changed\n* fix: Require ProvisionedThroughput when DynamoDB BillingMode is omitted by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4702\n* fix [E3700](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3700): Skip first-stage check for conditional stage entries by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4701\n* fix: Escape hyphen in SSM dynamic reference pattern by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4700\n* add [E3725](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3725): FSx FileSystemType-specific StorageCapacity by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4708\n* docs: Refresh stale .kiro steering and prompts by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4710\n* fix: reject `Fn::Select` lifecycle policies without transform by @0xTaoZ in https://github.com/aws-cloudformation/cfn-lint/pull/4704\n* chore(deps): bump pyinstaller from `6.22.2` to `6.22.3` in /requirements by @dependabot[bot] in https://github.com/aws-cloudformation/cfn-lint/pull/4713\n* refactor: simplify `Fn::Select` lifecycle policy error metadata by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/4711\n* fix: resolve every index `Fn::Select` can take by @ashvinctrl in https://github.com/aws-cloudformation/cfn-lint/pull/4705\n* Update CloudFormation schemas to `2026-09-17` by @github-actions[bot] in https://github.com/aws-cloudformation/cfn-lint/pull/4703\n* feat: Add metadata context validation rules (I4010, I4011, I4012) by @chrisqm-dev in https://github.com/aws-cloudformation/cfn-lint/pull/4655\n* add [I4010](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#I4010): Template or architecture-relevant resource has no Context block by @chrisqm-dev in https://github.com/aws-cloudformation/cfn-lint/pull/4708\n* add [W4011](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#W4011): Context block has no 'why' by @chrisqm-dev in https://github.com/aws-cloudformation/cfn-lint/pull/4708\n* add [W4012](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#W4012): Context field does not match the schema by @chrisqm-dev in https://github.com/aws-cloudformation/cfn-lint/pull/4708\n\n## New Contributors\n* @ashvinctrl made their first contribution in https://github.com/aws-cloudformation/cfn-lint/pull/4705\n\n**Full Changelog**: https://github.com/aws-cloudformation/cfn-lint/compare/v1.56.3...v1.57.0\n",
+  "mentions_count": 5
 }
