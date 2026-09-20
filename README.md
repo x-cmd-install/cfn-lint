@@ -4,7 +4,7 @@
 
 CloudFormation Linter
 
-![cfn-lint](https://repo.x-cmd.io/cfn-lint.svg)
+[![x-cmd/install — cfn-lint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cfn-lint.svg)](https://x-cmd.com/install/cfn-lint)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **783,578** lines of code across **1666** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,637 · **Forks**: 644 · **Open issues**: 1,530 · **Contributors**: 189
+- **Stars**: 2,641 · **Forks**: 644 · **Open issues**: 1,530 · **Contributors**: 189
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **783,578** lines of code across **1666** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 37 | 3 | 18 | 2 | 38 |
-| last60d | 2026-07-20 | 11 | 75 | 6 | 35 | 6 | 74 |
-| 90d | 2026-06-20 | 14 | 96 | 6 | 42 | 9 | 96 |
-| last180d | 2026-03-22 | 29 | 216 | 9 | 70 | 11 | 210 |
-| 360d | 2025-09-23 | 46 | 305 | 9 | 113 | 12 | 303 |
-| last720d | 2024-09-28 | 100 | 637 | 10 | 277 | 27 | 634 |
+| 30d | 2026-08-21 | 5 | 36 | 3 | 16 | 2 | 38 |
+| last60d | 2026-07-22 | 10 | 75 | 6 | 34 | 6 | 74 |
+| 90d | 2026-06-22 | 14 | 93 | 6 | 42 | 9 | 96 |
+| last180d | 2026-03-24 | 29 | 204 | 9 | 66 | 11 | 210 |
+| 360d | 2025-09-25 | 46 | 305 | 9 | 113 | 12 | 303 |
+| last720d | 2024-09-30 | 100 | 635 | 10 | 277 | 27 | 634 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for cfn-lint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:58:36Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:58:04Z._

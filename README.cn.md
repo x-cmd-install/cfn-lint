@@ -4,7 +4,7 @@
 
 CloudFormation Linter
 
-![cfn-lint](https://repo.x-cmd.io/cfn-lint.svg?lang=zh)
+[![x-cmd/install — cfn-lint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cfn-lint.svg?lang=zh)](https://x-cmd.com/install/cfn-lint)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install cfn-lint
 
 ## 流行度
 
-- **Star**: 2,637 · **Fork**: 644 · **开放 issue**: 1,530 · **贡献者**: 189
+- **Star**: 2,641 · **Fork**: 644 · **开放 issue**: 1,530 · **贡献者**: 189
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install cfn-lint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 37 | 3 | 18 | 2 | 38 |
-| last60d | 2026-07-20 | 11 | 75 | 6 | 35 | 6 | 74 |
-| 90d | 2026-06-20 | 14 | 96 | 6 | 42 | 9 | 96 |
-| last180d | 2026-03-22 | 29 | 216 | 9 | 70 | 11 | 210 |
-| 360d | 2025-09-23 | 46 | 305 | 9 | 113 | 12 | 303 |
-| last720d | 2024-09-28 | 100 | 637 | 10 | 277 | 27 | 634 |
+| 30d | 2026-08-21 | 5 | 36 | 3 | 16 | 2 | 38 |
+| last60d | 2026-07-22 | 10 | 75 | 6 | 34 | 6 | 74 |
+| 90d | 2026-06-22 | 14 | 93 | 6 | 42 | 9 | 96 |
+| last180d | 2026-03-24 | 29 | 204 | 9 | 66 | 11 | 210 |
+| 360d | 2025-09-25 | 46 | 305 | 9 | 113 | 12 | 303 |
+| last720d | 2024-09-30 | 100 | 635 | 10 | 277 | 27 | 634 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ cfn-lint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:58:37Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:58:04Z._
