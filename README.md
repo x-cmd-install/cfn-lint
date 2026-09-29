@@ -14,13 +14,13 @@ x install cfn-lint
 
 ## Code insight
 
-Total: **783,578** lines of code across **1666** files in the top 5 languages.
+Total: **787,340** lines of code across **1669** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 680,766 | 0 | 36 | 355 |
-| Python | 84,664 | 1,780 | 11,015 | 1069 |
-| Yaml | 17,761 | 422 | 457 | 239 |
+| Json | 684,192 | 0 | 36 | 356 |
+| Python | 84,979 | 1,792 | 11,039 | 1069 |
+| Yaml | 17,782 | 422 | 457 | 241 |
 | Toml | 173 | 4 | 31 | 1 |
 | Svg | 107 | 1 | 0 | 2 |
 
@@ -31,35 +31,35 @@ Total: **783,578** lines of code across **1666** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.57.0` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Latest**: `v1.57.1` (2026-09-28)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 2,641 · **Forks**: 646 · **Open issues**: 1,533 · **Contributors**: 189
+- **Stars**: 2,641 · **Forks**: 646 · **Open issues**: 1,533 · **Contributors**: 190
 
 ## Totals (cumulative)
 
-- **Releases**: 477 · **Merged PRs**: 2953 · **Open PRs**: 16 · **Closed issues**: 1464 · **Open issues**: 69 · **Commits**: 3462
+- **Releases**: 478 · **Merged PRs**: 2957 · **Open PRs**: 14 · **Closed issues**: 1465 · **Open issues**: 68 · **Commits**: 3466
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 5 | 29 | 8 | 13 | 4 | 26 |
-| last60d | 2026-07-30 | 8 | 62 | 11 | 33 | 8 | 61 |
-| 90d | 2026-06-30 | 12 | 87 | 11 | 38 | 11 | 86 |
-| last180d | 2026-04-01 | 27 | 181 | 13 | 62 | 13 | 178 |
-| 360d | 2025-10-03 | 45 | 301 | 14 | 113 | 14 | 296 |
-| last720d | 2024-10-08 | 100 | 626 | 15 | 273 | 29 | 624 |
+| 30d | 2026-08-30 | 6 | 33 | 6 | 14 | 3 | 30 |
+| last60d | 2026-07-31 | 9 | 66 | 9 | 34 | 7 | 65 |
+| 90d | 2026-07-01 | 13 | 91 | 9 | 39 | 10 | 90 |
+| last180d | 2026-04-02 | 27 | 184 | 11 | 63 | 12 | 182 |
+| 360d | 2025-10-04 | 46 | 305 | 12 | 114 | 13 | 300 |
+| last720d | 2024-10-09 | 100 | 630 | 13 | 273 | 28 | 627 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [schemas-cfnlint.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.0/schemas-cfnlint.zip) | 3.0 MiB | `other` |
-| [schemas-draft7.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.0/schemas-draft7.zip) | 3.0 MiB | `other` |
+| [schemas-cfnlint.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.1/schemas-cfnlint.zip) | 3.1 MiB | `other` |
+| [schemas-draft7.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.1/schemas-draft7.zip) | 3.1 MiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for cfn-lint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:13:44Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:35:14Z._
