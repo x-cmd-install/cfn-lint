@@ -47,12 +47,12 @@ Total: **787,344** lines of code across **1669** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 5 | 29 | 6 | 9 | 2 | 15 |
-| last60d | 2026-08-06 | 8 | 66 | 8 | 27 | 6 | 56 |
-| 90d | 2026-07-07 | 13 | 88 | 9 | 39 | 9 | 84 |
-| last180d | 2026-04-08 | 27 | 180 | 11 | 61 | 12 | 175 |
-| 360d | 2025-10-10 | 45 | 299 | 12 | 114 | 13 | 294 |
-| last720d | 2024-10-15 | 100 | 624 | 13 | 273 | 27 | 623 |
+| 30d | 2026-09-06 | 5 | 29 | 6 | 9 | 2 | 15 |
+| last60d | 2026-08-07 | 8 | 61 | 8 | 27 | 6 | 56 |
+| 90d | 2026-07-08 | 13 | 88 | 9 | 39 | 9 | 84 |
+| last180d | 2026-04-09 | 27 | 177 | 11 | 61 | 12 | 175 |
+| 360d | 2025-10-11 | 45 | 299 | 12 | 114 | 13 | 294 |
+| last720d | 2024-10-16 | 100 | 621 | 13 | 271 | 27 | 622 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for cfn-lint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:31:08Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:15:27Z._
