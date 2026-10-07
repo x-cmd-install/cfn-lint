@@ -31,35 +31,35 @@ Total: **787,344** lines of code across **1669** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.57.1` (2026-09-28)
-- **Last commit**: 2026-10-01
+- **Latest**: `v1.57.2` (2026-10-06)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 2,640 · **Forks**: 647 · **Open issues**: 1,534 · **Contributors**: 191
+- **Stars**: 2,640 · **Forks**: 647 · **Open issues**: 1,535 · **Contributors**: 191
 
 ## Totals (cumulative)
 
-- **Releases**: 478 · **Merged PRs**: 2959 · **Open PRs**: 14 · **Closed issues**: 1466 · **Open issues**: 68 · **Commits**: 3468
+- **Releases**: 479 · **Merged PRs**: 2960 · **Open PRs**: 14 · **Closed issues**: 1466 · **Open issues**: 69 · **Commits**: 3469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 5 | 29 | 6 | 9 | 2 | 15 |
-| last60d | 2026-08-07 | 8 | 61 | 8 | 27 | 6 | 56 |
-| 90d | 2026-07-08 | 13 | 88 | 9 | 39 | 9 | 84 |
-| last180d | 2026-04-09 | 27 | 177 | 11 | 61 | 12 | 175 |
-| 360d | 2025-10-11 | 45 | 299 | 12 | 114 | 13 | 294 |
-| last720d | 2024-10-16 | 100 | 621 | 13 | 271 | 27 | 622 |
+| 30d | 2026-09-07 | 6 | 30 | 6 | 9 | 3 | 16 |
+| last60d | 2026-08-08 | 9 | 62 | 7 | 27 | 7 | 57 |
+| 90d | 2026-07-09 | 14 | 86 | 9 | 39 | 10 | 85 |
+| last180d | 2026-04-10 | 28 | 176 | 11 | 61 | 13 | 176 |
+| 360d | 2025-10-12 | 46 | 299 | 12 | 114 | 14 | 295 |
+| last720d | 2024-10-17 | 100 | 617 | 13 | 270 | 28 | 620 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [schemas-cfnlint.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.1/schemas-cfnlint.zip) | 3.1 MiB | `other` |
-| [schemas-draft7.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.1/schemas-draft7.zip) | 3.1 MiB | `other` |
+| [schemas-cfnlint.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.2/schemas-cfnlint.zip) | 3.2 MiB | `other` |
+| [schemas-draft7.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.2/schemas-draft7.zip) | 3.2 MiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for cfn-lint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:15:27Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:51:37Z._
