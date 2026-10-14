@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3340718,
       "digest": "sha256:86ce483d0710a0d58f7edbb9499de023cc59cef99aa043399690ed2a721515d2",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-06T17:55:19Z",
       "updated_at": "2026-10-06T17:55:20Z",
       "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.57.2/schemas-draft7.zip"
