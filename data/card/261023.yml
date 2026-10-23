@@ -1,0 +1,147 @@
+about:
+  description: "CloudFormation Linter"
+  license: MIT-0
+  homepage: 
+  head: 2a10fb4
+  archived: false
+  latestVersion: "v1.58.0"
+  latestRelease: "v1.58.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-23T05:37:09Z
+timeline:
+  created: 2018-04-10
+  lastCommit: 2026-10-22
+  lastVersion: 2026-10-20
+  lastRelease: 2026-10-20
+  lastPrerelease: 
+popularity:
+  star: 2644
+  watcher: 41
+  fork: 657
+  release: 480
+  contributor: 198
+  pullRequest: 3219
+  issue: 1602
+language:
+  Python: 3303905
+  Shell: 7695
+  Dockerfile: 160
+totalBytes: 3311760
+recent:
+  last30d:
+    since: 2026-09-23
+    release: 3
+    mergedPR: 34
+    openPR: 25
+    closedIssue: 22
+    openIssue: 47
+    commit: 38
+  last60d:
+    since: 2026-08-24
+    release: 8
+    mergedPR: 73
+    openPR: 27
+    closedIssue: 40
+    openIssue: 49
+    commit: 76
+  last90d:
+    since: 2026-07-25
+    release: 12
+    mergedPR: 106
+    openPR: 30
+    closedIssue: 59
+    openIssue: 52
+    commit: 108
+  last180d:
+    since: 2026-04-26
+    release: 25
+    mergedPR: 188
+    openPR: 31
+    closedIssue: 81
+    openIssue: 56
+    commit: 187
+  last360d:
+    since: 2025-10-28
+    release: 45
+    mergedPR: 324
+    openPR: 33
+    closedIssue: 134
+    openIssue: 58
+    commit: 324
+  last720d:
+    since: 2024-11-02
+    release: 100
+    mergedPR: 617
+    openPR: 34
+    closedIssue: 279
+    openIssue: 72
+    commit: 618
+total:
+  release: 480
+  mergedPR: 2991
+  openPR: 35
+  closedIssue: 1489
+  openIssue: 113
+  commit: 3500
+---
+path: /home/runner/.x-repo/github.com/aws-cloudformation/cfn-lint
+collectedAt: 2026-10-23T05:39:08Z
+loc:
+  Json:
+    code: 699027
+    comments: 0
+    blanks: 36
+    files: 356
+  Python:
+    code: 86619
+    comments: 1886
+    blanks: 11224
+    files: 1076
+  Yaml:
+    code: 17993
+    comments: 431
+    blanks: 457
+    files: 246
+  Toml:
+    code: 175
+    comments: 4
+    blanks: 31
+    files: 1
+  Svg:
+    code: 107
+    comments: 1
+    blanks: 0
+    files: 2
+  Sh:
+    code: 100
+    comments: 25
+    blanks: 25
+    files: 1
+  Dockerfile:
+    code: 5
+    comments: 0
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4600
+    blanks: 1121
+    files: 15
+  Text:
+    code: 0
+    comments: 62
+    blanks: 1
+    files: 23
+total:
+  code: 804454
+  comments: 7028
+  blanks: 12927
+  files: 1722
+---
+
+---
