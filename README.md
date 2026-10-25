@@ -14,12 +14,12 @@ x install cfn-lint
 
 ## Code insight
 
-Total: **804,669** lines of code across **1684** files in the top 5 languages.
+Total: **804,790** lines of code across **1684** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 699,140 | 0 | 36 | 357 |
-| Python | 87,050 | 1,902 | 11,244 | 1076 |
+| Python | 87,171 | 1,909 | 11,247 | 1076 |
 | Yaml | 18,090 | 442 | 460 | 248 |
 | Toml | 175 | 4 | 31 | 1 |
 | Svg | 107 | 1 | 0 | 2 |
@@ -37,22 +37,22 @@ Total: **804,669** lines of code across **1684** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,644 · **Forks**: 658 · **Open issues**: 1,619 · **Contributors**: 198
+- **Stars**: 2,644 · **Forks**: 659 · **Open issues**: 1,625 · **Contributors**: 198
 
 ## Totals (cumulative)
 
-- **Releases**: 480 · **Merged PRs**: 3002 · **Open PRs**: 37 · **Closed issues**: 1497 · **Open issues**: 122 · **Commits**: 3511
+- **Releases**: 480 · **Merged PRs**: 3004 · **Open PRs**: 43 · **Closed issues**: 1498 · **Open issues**: 127 · **Commits**: 3513
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 3 | 45 | 27 | 30 | 56 | 49 |
-| last60d | 2026-08-25 | 8 | 84 | 29 | 48 | 58 | 87 |
-| 90d | 2026-07-26 | 12 | 117 | 32 | 67 | 61 | 119 |
-| last180d | 2026-04-27 | 25 | 197 | 33 | 89 | 65 | 198 |
-| 360d | 2025-10-29 | 45 | 335 | 35 | 142 | 67 | 335 |
-| last720d | 2024-11-03 | 100 | 628 | 36 | 286 | 81 | 629 |
+| 30d | 2026-09-25 | 3 | 47 | 32 | 31 | 61 | 51 |
+| last60d | 2026-08-26 | 8 | 85 | 35 | 49 | 63 | 89 |
+| 90d | 2026-07-27 | 12 | 116 | 38 | 67 | 66 | 121 |
+| last180d | 2026-04-28 | 24 | 198 | 39 | 89 | 70 | 200 |
+| 360d | 2025-10-30 | 45 | 337 | 41 | 142 | 72 | 337 |
+| last720d | 2024-11-04 | 100 | 628 | 42 | 287 | 86 | 631 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for cfn-lint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:32:44Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:26:11Z._
