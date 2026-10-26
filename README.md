@@ -37,22 +37,22 @@ Total: **804,790** lines of code across **1684** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,644 · **Forks**: 659 · **Open issues**: 1,625 · **Contributors**: 198
+- **Stars**: 2,644 · **Forks**: 660 · **Open issues**: 1,625 · **Contributors**: 198
 
 ## Totals (cumulative)
 
-- **Releases**: 480 · **Merged PRs**: 3004 · **Open PRs**: 43 · **Closed issues**: 1498 · **Open issues**: 127 · **Commits**: 3513
+- **Releases**: 480 · **Merged PRs**: 3004 · **Open PRs**: 57 · **Closed issues**: 1498 · **Open issues**: 127 · **Commits**: 3513
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 47 | 32 | 31 | 61 | 51 |
-| last60d | 2026-08-26 | 8 | 85 | 35 | 49 | 63 | 89 |
-| 90d | 2026-07-27 | 12 | 116 | 38 | 67 | 66 | 121 |
-| last180d | 2026-04-28 | 24 | 198 | 39 | 89 | 70 | 200 |
-| 360d | 2025-10-30 | 45 | 337 | 41 | 142 | 72 | 337 |
-| last720d | 2024-11-04 | 100 | 628 | 42 | 287 | 86 | 631 |
+| 30d | 2026-09-26 | 3 | 47 | 46 | 31 | 61 | 46 |
+| last60d | 2026-08-27 | 8 | 85 | 49 | 48 | 63 | 79 |
+| 90d | 2026-07-28 | 12 | 113 | 52 | 67 | 66 | 114 |
+| last180d | 2026-04-29 | 24 | 194 | 53 | 88 | 70 | 193 |
+| 360d | 2025-10-31 | 45 | 336 | 55 | 140 | 72 | 334 |
+| last720d | 2024-11-05 | 100 | 627 | 56 | 287 | 86 | 627 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for cfn-lint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:26:11Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:34:32Z._
