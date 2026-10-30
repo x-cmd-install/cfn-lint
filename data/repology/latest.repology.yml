@@ -1,18 +1,4 @@
 - repo: fedora_39
-  subrepo: updates
-  srcname: cfn-lint
-  binnames:
-    - cfn-lint
-  visiblename: cfn-lint
-  version: 0.87.9
-  origversion: 0.87.9-2.fc39
-  status: outdated
-  summary: CloudFormation Linter
-  licenses:
-    - MIT-0
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: release
   srcname: cfn-lint
   binnames:
@@ -26,15 +12,15 @@
     - MIT-0
   categories:
     - Unspecified
-- repo: fedora_40
-  subrepo: release
+- repo: fedora_39
+  subrepo: updates
   srcname: cfn-lint
   binnames:
     - cfn-lint
   visiblename: cfn-lint
-  version: 0.86.0
-  origversion: 0.86.0-1.fc40
-  status: legacy
+  version: 0.87.9
+  origversion: 0.87.9-2.fc39
+  status: outdated
   summary: CloudFormation Linter
   licenses:
     - MIT-0
@@ -49,6 +35,20 @@
   version: 0.87.9
   origversion: 0.87.9-2.fc40
   status: outdated
+  summary: CloudFormation Linter
+  licenses:
+    - MIT-0
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: cfn-lint
+  binnames:
+    - cfn-lint
+  visiblename: cfn-lint
+  version: 0.86.0
+  origversion: 0.86.0-1.fc40
+  status: legacy
   summary: CloudFormation Linter
   licenses:
     - MIT-0
@@ -129,7 +129,7 @@
 - repo: homebrew
   srcname: cfn-lint
   visiblename: cfn-lint
-  version: 1.58.0
+  version: 1.59.0
   origversion: null
   status: newest
   summary: Validate CloudFormation templates against the CloudFormation spec
