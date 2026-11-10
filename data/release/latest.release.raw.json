@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5161863,
       "digest": "sha256:8c12142205cdba8b63236cc6e61f06aff6b563ae957c83af76e56940a3a4fe6a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T23:46:18Z",
       "updated_at": "2026-11-05T23:46:19Z",
       "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.0/cfn_lint-1.60.0.tar.gz"
