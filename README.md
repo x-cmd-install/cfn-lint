@@ -14,11 +14,11 @@ x install cfn-lint
 
 ## Code insight
 
-Total: **617,063** lines of code across **1697** files in the top 5 languages.
+Total: **617,614** lines of code across **1697** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 507,227 | 0 | 36 | 359 |
+| Json | 507,778 | 0 | 36 | 359 |
 | Python | 91,332 | 2,077 | 11,628 | 1087 |
 | Yaml | 18,116 | 442 | 460 | 248 |
 | Toml | 175 | 4 | 31 | 1 |
@@ -32,27 +32,27 @@ Total: **617,063** lines of code across **1697** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.60.0` (2026-11-05)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 2,643 · **Forks**: 664 · **Open issues**: 1,654 · **Contributors**: 202
+- **Stars**: 2,643 · **Forks**: 664 · **Open issues**: 1,655 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 482 · **Merged PRs**: 3061 · **Open PRs**: 58 · **Closed issues**: 1547 · **Open issues**: 107 · **Commits**: 3571
+- **Releases**: 482 · **Merged PRs**: 3062 · **Open PRs**: 59 · **Closed issues**: 1547 · **Open issues**: 108 · **Commits**: 3572
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 3 | 96 | 46 | 74 | 41 | 102 |
-| last60d | 2026-09-12 | 6 | 113 | 49 | 82 | 43 | 116 |
-| 90d | 2026-08-13 | 11 | 151 | 51 | 103 | 45 | 152 |
-| last180d | 2026-05-15 | 24 | 236 | 54 | 131 | 49 | 235 |
-| 360d | 2025-11-16 | 46 | 388 | 56 | 185 | 52 | 386 |
-| last720d | 2024-11-21 | 100 | 669 | 57 | 328 | 64 | 670 |
+| 30d | 2026-10-13 | 3 | 97 | 47 | 73 | 42 | 103 |
+| last60d | 2026-09-13 | 6 | 114 | 50 | 82 | 44 | 117 |
+| 90d | 2026-08-14 | 10 | 150 | 52 | 103 | 45 | 153 |
+| last180d | 2026-05-16 | 24 | 237 | 55 | 131 | 50 | 236 |
+| 360d | 2025-11-17 | 46 | 388 | 57 | 183 | 53 | 387 |
+| last720d | 2024-11-22 | 100 | 670 | 58 | 325 | 65 | 671 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for cfn-lint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:12:32Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:53:04Z._
