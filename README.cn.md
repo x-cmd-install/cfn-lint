@@ -31,8 +31,8 @@ x install cfn-lint
 
 ## 发布
 
-- **最新版本**: `v1.60.0` (2026-11-05)
-- **最近提交**: 2026-11-11
+- **最新版本**: `v1.60.1` (2026-11-12)
+- **最近提交**: 2026-11-12
 - **Release 含资产**: 3 个
 
 ## 流行度
@@ -41,26 +41,26 @@ x install cfn-lint
 
 ## 累计统计
 
-- **发布数**: 482 · **已合并 PR**: 3062 · **开放 PR**: 59 · **已关闭 issue**: 1547 · **开放 issue**: 108 · **提交数**: 3572
+- **发布数**: 483 · **已合并 PR**: 3063 · **开放 PR**: 59 · **已关闭 issue**: 1548 · **开放 issue**: 107 · **提交数**: 3573
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 97 | 47 | 73 | 42 | 103 |
-| last60d | 2026-09-13 | 6 | 114 | 50 | 82 | 44 | 117 |
-| 90d | 2026-08-14 | 10 | 150 | 52 | 103 | 45 | 153 |
-| last180d | 2026-05-16 | 24 | 237 | 55 | 131 | 50 | 236 |
-| 360d | 2025-11-17 | 46 | 388 | 57 | 183 | 53 | 387 |
-| last720d | 2024-11-22 | 100 | 670 | 58 | 325 | 65 | 671 |
+| 30d | 2026-10-14 | 4 | 94 | 46 | 69 | 39 | 104 |
+| last60d | 2026-09-14 | 7 | 114 | 50 | 83 | 43 | 118 |
+| 90d | 2026-08-15 | 11 | 151 | 52 | 104 | 44 | 154 |
+| last180d | 2026-05-17 | 25 | 238 | 55 | 132 | 49 | 237 |
+| 360d | 2025-11-18 | 47 | 388 | 57 | 183 | 52 | 388 |
+| last720d | 2024-11-23 | 100 | 671 | 58 | 326 | 64 | 672 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cfn_lint-1.60.0.tar.gz](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.0/cfn_lint-1.60.0.tar.gz) | 4.9 MiB | `native/unknown` |
-| [schemas-cfnlint.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.0/schemas-cfnlint.zip) | 3.3 MiB | `other` |
-| [schemas-draft7.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.0/schemas-draft7.zip) | 3.3 MiB | `other` |
+| [cfn_lint-1.60.1.tar.gz](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/cfn_lint-1.60.1.tar.gz) | 4.9 MiB | `native/unknown` |
+| [schemas-cfnlint.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/schemas-cfnlint.zip) | 3.3 MiB | `other` |
+| [schemas-draft7.zip](https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/schemas-draft7.zip) | 3.3 MiB | `other` |
 
 ## 发行版状态
 
@@ -79,4 +79,4 @@ cfn-lint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T08:53:04Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T08:01:22Z._
