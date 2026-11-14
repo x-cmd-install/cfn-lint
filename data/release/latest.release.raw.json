@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5185134,
       "digest": "sha256:d07d50f0f60b5c719ed3ddcd06ab7329209f74892a14e1e853c49fe4d4bb5dce",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-11-12T16:11:14Z",
       "updated_at": "2026-11-12T16:11:15Z",
       "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/cfn_lint-1.60.1.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3500560,
       "digest": "sha256:22eac3bc4620bc0f7e9852b83437ae92f2e6a1abbec578d8b276d05df39cb233",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-12T16:02:30Z",
       "updated_at": "2026-11-12T16:02:46Z",
       "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/schemas-cfnlint.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3500056,
       "digest": "sha256:e6afcecc84f99f6957770a339f2fee154f98cfc6524ac2c3273a4f78c9af5e8a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-12T16:02:30Z",
       "updated_at": "2026-11-12T16:02:32Z",
       "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/schemas-draft7.zip"
