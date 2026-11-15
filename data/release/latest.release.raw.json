@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3500560,
       "digest": "sha256:22eac3bc4620bc0f7e9852b83437ae92f2e6a1abbec578d8b276d05df39cb233",
-      "download_count": 3,
+      "download_count": 178,
       "created_at": "2026-11-12T16:02:30Z",
       "updated_at": "2026-11-12T16:02:46Z",
       "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/schemas-cfnlint.zip"
