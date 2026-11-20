@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/443181358",
-  "assets_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/443181358/assets",
-  "upload_url": "https://uploads.github.com/repos/aws-cloudformation/cfn-lint/releases/443181358/assets{?name,label}",
-  "html_url": "https://github.com/aws-cloudformation/cfn-lint/releases/tag/v1.60.1",
-  "id": 443181358,
+  "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/452025045",
+  "assets_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/452025045/assets",
+  "upload_url": "https://uploads.github.com/repos/aws-cloudformation/cfn-lint/releases/452025045/assets{?name,label}",
+  "html_url": "https://github.com/aws-cloudformation/cfn-lint/releases/tag/v1.61.0",
+  "id": 452025045,
   "author": {
     "login": "kddejong",
     "id": 36457093,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOB7B4V84aamku",
-  "tag_name": "v1.60.1",
+  "node_id": "RE_kwDOB7B4V84a8VrV",
+  "tag_name": "v1.61.0",
   "target_commitish": "main",
-  "name": "Release v1.60.1",
+  "name": "Release v1.61.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-12T15:56:00Z",
-  "updated_at": "2026-11-12T16:11:15Z",
-  "published_at": "2026-11-12T16:02:47Z",
+  "created_at": "2026-11-19T20:36:50Z",
+  "updated_at": "2026-11-19T22:48:24Z",
+  "published_at": "2026-11-19T22:46:01Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/740141328",
-      "id": 740141328,
-      "node_id": "RA_kwDOB7B4V84sHakQ",
-      "name": "cfn_lint-1.60.1.tar.gz",
+      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/769566196",
+      "id": 769566196,
+      "node_id": "RA_kwDOB7B4V84t3qX0",
+      "name": "cfn_lint-1.61.0.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,17 +65,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 5185134,
-      "digest": "sha256:d07d50f0f60b5c719ed3ddcd06ab7329209f74892a14e1e853c49fe4d4bb5dce",
-      "download_count": 6,
-      "created_at": "2026-11-12T16:11:14Z",
-      "updated_at": "2026-11-12T16:11:15Z",
-      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/cfn_lint-1.60.1.tar.gz"
+      "size": 5243970,
+      "digest": "sha256:a408e1ae0a059b1e8cdcd581c01545ebc99a40961e2edd2a1c0a77e463dcc922",
+      "download_count": 4,
+      "created_at": "2026-11-19T22:48:24Z",
+      "updated_at": "2026-11-19T22:48:24Z",
+      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.61.0/cfn_lint-1.61.0.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/740107481",
-      "id": 740107481,
-      "node_id": "RA_kwDOB7B4V84sHSTZ",
+      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/769559957",
+      "id": 769559957,
+      "node_id": "RA_kwDOB7B4V84t3o2V",
       "name": "schemas-cfnlint.zip",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 3500560,
-      "digest": "sha256:22eac3bc4620bc0f7e9852b83437ae92f2e6a1abbec578d8b276d05df39cb233",
-      "download_count": 179,
-      "created_at": "2026-11-12T16:02:30Z",
-      "updated_at": "2026-11-12T16:02:46Z",
-      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/schemas-cfnlint.zip"
+      "size": 3547770,
+      "digest": "sha256:186a57afa2ec2850fbd17691427c85a781c63411109a9f6f6ad001355bd81459",
+      "download_count": 1,
+      "created_at": "2026-11-19T22:46:00Z",
+      "updated_at": "2026-11-19T22:46:01Z",
+      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.61.0/schemas-cfnlint.zip"
     },
     {
-      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/740107479",
-      "id": 740107479,
-      "node_id": "RA_kwDOB7B4V84sHSTX",
+      "url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/releases/assets/769559951",
+      "id": 769559951,
+      "node_id": "RA_kwDOB7B4V84t3o2P",
       "name": "schemas-draft7.zip",
       "label": "",
       "uploader": {
@@ -137,16 +137,16 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 3500056,
-      "digest": "sha256:e6afcecc84f99f6957770a339f2fee154f98cfc6524ac2c3273a4f78c9af5e8a",
-      "download_count": 3,
-      "created_at": "2026-11-12T16:02:30Z",
-      "updated_at": "2026-11-12T16:02:32Z",
-      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.60.1/schemas-draft7.zip"
+      "size": 3547263,
+      "digest": "sha256:aa87a57d07e69a1792efec8b14c87540f76eaaed9986e43e2731352f595864b6",
+      "download_count": 1,
+      "created_at": "2026-11-19T22:46:00Z",
+      "updated_at": "2026-11-19T22:46:01Z",
+      "browser_download_url": "https://github.com/aws-cloudformation/cfn-lint/releases/download/v1.61.0/schemas-draft7.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/tarball/v1.60.1",
-  "zipball_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/zipball/v1.60.1",
-  "body": "## What's Changed\n* Fix [E1011](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E1011): skip FindInMap key errors when the key comes from a pseudo parameter by @Varshith-Kali in https://github.com/aws-cloudformation/cfn-lint/pull/5011\n* Update CloudFormation schemas to 2026-11-11 by @github-actions[bot] in https://github.com/aws-cloudformation/cfn-lint/pull/4998\n\n**Full Changelog**: https://github.com/aws-cloudformation/cfn-lint/compare/v1.60.0...v1.60.1\n",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/tarball/v1.61.0",
+  "zipball_url": "https://api.github.com/repos/aws-cloudformation/cfn-lint/zipball/v1.61.0",
+  "body": "## What's Changed\n* chore: remove Python 3.10 support (EOL October 2026) by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/5006\n* Fix [E3696](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3696): also flag ApplicationLogLevel when LogFormat is Text by @badmintoncryer in https://github.com/aws-cloudformation/cfn-lint/pull/5027\n* Update CloudFormation schemas to 2026-11-19 by @github-actions[bot] in https://github.com/aws-cloudformation/cfn-lint/pull/5012\n* Fix [E3717](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3717): raise the Timeout maximum to 1800 for functions without CapacityProviderConfig by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/5030\n\n**Full Changelog**: https://github.com/aws-cloudformation/cfn-lint/compare/v1.60.1...v1.61.0\n",
+  "mentions_count": 2
 }
