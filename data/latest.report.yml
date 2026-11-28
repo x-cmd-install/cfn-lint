@@ -2,15 +2,15 @@ about:
   description: "CloudFormation Linter"
   license: MIT-0
   homepage: 
-  head: c6d3d1d
+  head: b8430f3
   archived: false
   latestVersion: "v1.61.0"
   latestRelease: "v1.61.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:09:18Z
+  collectedAt: 2026-11-28T08:26:13Z
 timeline:
   created: 2018-04-10
-  lastCommit: 2026-11-25
+  lastCommit: 2026-11-27
   lastVersion: 2026-11-19
   lastRelease: 2026-11-19
   lastPrerelease: 
@@ -20,83 +20,83 @@ popularity:
   fork: 672
   release: 484
   contributor: 205
-  pullRequest: 3352
-  issue: 1671
+  pullRequest: 3357
+  issue: 1679
 language:
-  Python: 3587306
+  Python: 3617866
   Shell: 7662
   Dockerfile: 160
-totalBytes: 3595128
+totalBytes: 3625688
 recent:
   last30d:
-    since: 2026-10-28
-    release: 4
-    mergedPR: 40
-    openPR: 25
-    closedIssue: 25
-    openIssue: 13
-    commit: 62
+    since: 2026-10-29
+    release: 3
+    mergedPR: 43
+    openPR: 26
+    closedIssue: 28
+    openIssue: 18
+    commit: 0
   last60d:
-    since: 2026-09-28
-    release: 7
-    mergedPR: 128
-    openPR: 54
-    closedIssue: 96
-    openIssue: 42
-    commit: 131
+    since: 2026-09-29
+    release: 6
+    mergedPR: 131
+    openPR: 55
+    closedIssue: 100
+    openIssue: 46
+    commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 12
-    mergedPR: 163
-    openPR: 57
-    closedIssue: 111
-    openIssue: 44
-    commit: 167
+    mergedPR: 167
+    openPR: 58
+    closedIssue: 115
+    openIssue: 48
+    commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 24
-    mergedPR: 249
-    openPR: 60
-    closedIssue: 147
-    openIssue: 49
-    commit: 250
+    mergedPR: 252
+    openPR: 61
+    closedIssue: 151
+    openIssue: 53
+    commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 46
-    mergedPR: 405
-    openPR: 62
-    closedIssue: 195
-    openIssue: 52
-    commit: 404
+    mergedPR: 409
+    openPR: 63
+    closedIssue: 199
+    openIssue: 56
+    commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 685
-    openPR: 62
-    closedIssue: 336
-    openIssue: 63
-    commit: 685
+    mergedPR: 689
+    openPR: 63
+    closedIssue: 339
+    openIssue: 67
+    commit: 689
 total:
   release: 484
-  mergedPR: 3087
-  openPR: 64
-  closedIssue: 1564
-  openIssue: 107
-  commit: 3597
+  mergedPR: 3091
+  openPR: 65
+  closedIssue: 1568
+  openIssue: 111
+  commit: 3601
 ---
 path: /home/runner/.x-repo/github.com/aws-cloudformation/cfn-lint
-collectedAt: 2026-11-27T10:11:08Z
+collectedAt: 2026-11-28T08:27:57Z
 loc:
   Json:
-    code: 512616
+    code: 525130
     comments: 0
     blanks: 36
     files: 359
   Python:
-    code: 93802
-    comments: 2148
-    blanks: 11873
-    files: 1091
+    code: 94538
+    comments: 2192
+    blanks: 11956
+    files: 1097
   Yaml:
     code: 18184
     comments: 447
@@ -129,8 +129,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 4719
-    blanks: 1133
+    comments: 4722
+    blanks: 1135
     files: 15
   Text:
     code: 0
@@ -138,11 +138,11 @@ loc:
     blanks: 1
     files: 30
 total:
-  code: 625414
-  comments: 7432
-  blanks: 13591
-  files: 1751
+  code: 638672
+  comments: 7479
+  blanks: 13676
+  files: 1757
 ---
 
 ---
-{"id":452025045,"author":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOB7B4V84a8VrV","tag_name":"v1.61.0","target_commitish":"main","name":"Release v1.61.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-19T20:36:50Z","updated_at":"2026-11-19T22:48:24Z","published_at":"2026-11-19T22:46:01Z","assets":[{"id":769566196,"node_id":"RA_kwDOB7B4V84t3qX0","name":"cfn_lint-1.61.0.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":5243970,"digest":"sha256:a408e1ae0a059b1e8cdcd581c01545ebc99a40961e2edd2a1c0a77e463dcc922","download_count":8,"created_at":"2026-11-19T22:48:24Z","updated_at":"2026-11-19T22:48:24Z"},{"id":769559957,"node_id":"RA_kwDOB7B4V84t3o2V","name":"schemas-cfnlint.zip","label":"","uploader":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3547770,"digest":"sha256:186a57afa2ec2850fbd17691427c85a781c63411109a9f6f6ad001355bd81459","download_count":2,"created_at":"2026-11-19T22:46:00Z","updated_at":"2026-11-19T22:46:01Z"},{"id":769559951,"node_id":"RA_kwDOB7B4V84t3o2P","name":"schemas-draft7.zip","label":"","uploader":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3547263,"digest":"sha256:aa87a57d07e69a1792efec8b14c87540f76eaaed9986e43e2731352f595864b6","download_count":3,"created_at":"2026-11-19T22:46:00Z","updated_at":"2026-11-19T22:46:01Z"}],"body":"## What's Changed\n* chore: remove Python 3.10 support (EOL October 2026) by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/5006\n* Fix [E3696](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3696): also flag ApplicationLogLevel when LogFormat is Text by @badmintoncryer in https://github.com/aws-cloudformation/cfn-lint/pull/5027\n* Update CloudFormation schemas to 2026-11-19 by @github-actions[bot] in https://github.com/aws-cloudformation/cfn-lint/pull/5012\n* Fix [E3717](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3717): raise the Timeout maximum to 1800 for functions without CapacityProviderConfig by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/5030\n\n**Full Changelog**: https://github.com/aws-cloudformation/cfn-lint/compare/v1.60.1...v1.61.0\n","mentions_count":2}
+{"id":452025045,"author":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOB7B4V84a8VrV","tag_name":"v1.61.0","target_commitish":"main","name":"Release v1.61.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-19T20:36:50Z","updated_at":"2026-11-19T22:48:24Z","published_at":"2026-11-19T22:46:01Z","assets":[{"id":769566196,"node_id":"RA_kwDOB7B4V84t3qX0","name":"cfn_lint-1.61.0.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":5243970,"digest":"sha256:a408e1ae0a059b1e8cdcd581c01545ebc99a40961e2edd2a1c0a77e463dcc922","download_count":8,"created_at":"2026-11-19T22:48:24Z","updated_at":"2026-11-19T22:48:24Z"},{"id":769559957,"node_id":"RA_kwDOB7B4V84t3o2V","name":"schemas-cfnlint.zip","label":"","uploader":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3547770,"digest":"sha256:186a57afa2ec2850fbd17691427c85a781c63411109a9f6f6ad001355bd81459","download_count":3,"created_at":"2026-11-19T22:46:00Z","updated_at":"2026-11-19T22:46:01Z"},{"id":769559951,"node_id":"RA_kwDOB7B4V84t3o2P","name":"schemas-draft7.zip","label":"","uploader":{"login":"kddejong","id":36457093,"node_id":"MDQ6VXNlcjM2NDU3MDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3547263,"digest":"sha256:aa87a57d07e69a1792efec8b14c87540f76eaaed9986e43e2731352f595864b6","download_count":3,"created_at":"2026-11-19T22:46:00Z","updated_at":"2026-11-19T22:46:01Z"}],"body":"## What's Changed\n* chore: remove Python 3.10 support (EOL October 2026) by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/5006\n* Fix [E3696](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3696): also flag ApplicationLogLevel when LogFormat is Text by @badmintoncryer in https://github.com/aws-cloudformation/cfn-lint/pull/5027\n* Update CloudFormation schemas to 2026-11-19 by @github-actions[bot] in https://github.com/aws-cloudformation/cfn-lint/pull/5012\n* Fix [E3717](https://github.com/aws-cloudformation/cfn-python-lint/blob/main/docs/rules.md#E3717): raise the Timeout maximum to 1800 for functions without CapacityProviderConfig by @kddejong in https://github.com/aws-cloudformation/cfn-lint/pull/5030\n\n**Full Changelog**: https://github.com/aws-cloudformation/cfn-lint/compare/v1.60.1...v1.61.0\n","mentions_count":2}
